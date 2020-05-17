@@ -1,0 +1,106 @@
+11/05/2020 14:17:27 devpinoyLogger Extent report is not moved
+11/05/2020 14:17:27 devpinoyLogger Emailable report is not moved
+11/05/2020 14:17:27 devpinoyLogger ReportNG report has not been moved
+11/05/2020 14:17:27 devpinoyLogger cleaning the folder Screenshots
+11/05/2020 14:17:27 devpinoyLogger Folder absolute path E:\Workspace\ReusableTestFramework-timesheet\Screenshots
+11/05/2020 14:17:27 devpinoyLogger Deleted all files in the folder E:\Workspace\ReusableTestFramework-timesheet\Screenshots
+11/05/2020 14:17:31 devpinoyLogger cleaning the folder Download
+11/05/2020 14:17:31 devpinoyLogger Folder absolute path E:\Workspace\ReusableTestFramework-timesheet\Download
+11/05/2020 14:17:31 devpinoyLogger Deleted all files in the folder E:\Workspace\ReusableTestFramework-timesheet\Download
+11/05/2020 14:17:33 devpinoyLogger Total rows are : 99
+11/05/2020 14:17:33 devpinoyLogger Test case starts from row num: 89
+11/05/2020 14:17:33 devpinoyLogger Total rows of data are : 5
+11/05/2020 14:17:33 devpinoyLogger Total cols are : 5
+11/05/2020 14:17:33 devpinoyLogger Starting execution of test case: testDropdownIsSorted
+11/05/2020 14:17:47 devpinoyLogger Navigating to BaseURL
+11/05/2020 14:19:04 devpinoyLogger Starting execution of test case: testDropdownIsSorted
+11/05/2020 14:19:16 devpinoyLogger Navigating to BaseURL
+11/05/2020 14:20:58 devpinoyLogger Starting execution of test case: testDropdownIsSorted
+11/05/2020 14:21:10 devpinoyLogger Navigating to BaseURL
+11/05/2020 14:22:31 devpinoyLogger Starting execution of test case: testDropdownIsSorted
+11/05/2020 14:22:42 devpinoyLogger Navigating to BaseURL
+11/05/2020 14:23:59 devpinoyLogger Starting execution of test case: testDropdownIsSorted
+11/05/2020 14:24:10 devpinoyLogger Navigating to BaseURL
+11/05/2020 14:26:29 devpinoyLogger Total rows are : 99
+11/05/2020 14:26:29 devpinoyLogger Test case starts from row num: 77
+11/05/2020 14:26:29 devpinoyLogger Total rows of data are : 1
+11/05/2020 14:26:29 devpinoyLogger Total cols are : 4
+11/05/2020 14:26:29 devpinoyLogger Starting execution of test case: testEmployeeName
+11/05/2020 14:26:40 devpinoyLogger Navigating to BaseURL
+11/05/2020 14:31:08 devpinoyLogger Total rows are : 99
+11/05/2020 14:31:08 devpinoyLogger Test case starts from row num: 69
+11/05/2020 14:31:08 devpinoyLogger Total rows of data are : 1
+11/05/2020 14:31:08 devpinoyLogger Total cols are : 4
+11/05/2020 14:31:08 devpinoyLogger Starting execution of test case: testEntriesPerPage
+11/05/2020 14:31:19 devpinoyLogger Navigating to BaseURL
+11/05/2020 14:35:47 devpinoyLogger Total rows are : 99
+11/05/2020 14:35:47 devpinoyLogger Test case starts from row num: 85
+11/05/2020 14:35:47 devpinoyLogger Total rows of data are : 1
+11/05/2020 14:35:47 devpinoyLogger Total cols are : 4
+11/05/2020 14:35:47 devpinoyLogger Starting execution of test case: testExcelReport
+11/05/2020 14:35:58 devpinoyLogger Navigating to BaseURL
+11/05/2020 14:40:24 devpinoyLogger Total rows are : 99
+11/05/2020 14:40:24 devpinoyLogger Test case starts from row num: 65
+11/05/2020 14:40:24 devpinoyLogger Total rows of data are : 1
+11/05/2020 14:40:24 devpinoyLogger Total cols are : 4
+11/05/2020 14:40:24 devpinoyLogger Starting execution of test case: testFutureDatesNotVisible
+11/05/2020 14:40:35 devpinoyLogger Navigating to BaseURL
+11/05/2020 14:42:27 devpinoyLogger Total rows are : 99
+11/05/2020 14:42:27 devpinoyLogger Test case starts from row num: 97
+11/05/2020 14:42:27 devpinoyLogger Total rows of data are : 1
+11/05/2020 14:42:27 devpinoyLogger Total cols are : 7
+11/05/2020 14:42:28 devpinoyLogger Starting execution of test case: testProjectFilter
+11/05/2020 14:42:40 devpinoyLogger Navigating to BaseURL
+11/05/2020 14:47:01 devpinoyLogger Total rows are : 99
+11/05/2020 14:47:01 devpinoyLogger Test case starts from row num: 73
+11/05/2020 14:47:01 devpinoyLogger Total rows of data are : 1
+11/05/2020 14:47:01 devpinoyLogger Total cols are : 4
+11/05/2020 14:47:01 devpinoyLogger Starting execution of test case: testTimesheetToalEntries
+11/05/2020 14:47:12 devpinoyLogger Navigating to BaseURL
+11/05/2020 14:51:35 devpinoyLogger Total rows are : 99
+11/05/2020 14:51:35 devpinoyLogger Test case starts from row num: 81
+11/05/2020 14:51:35 devpinoyLogger Total rows of data are : 1
+11/05/2020 14:51:35 devpinoyLogger Total cols are : 4
+11/05/2020 14:51:35 devpinoyLogger Starting execution of test case: testWeekndTimeEntry
+11/05/2020 14:51:46 devpinoyLogger Navigating to BaseURL
+11/05/2020 14:56:14 devpinoyLogger Total rows are : 99
+11/05/2020 14:56:14 devpinoyLogger Test case starts from row num: 45
+11/05/2020 14:56:14 devpinoyLogger Total rows of data are : 1
+11/05/2020 14:56:14 devpinoyLogger Total cols are : 8
+11/05/2020 14:56:14 devpinoyLogger Starting execution of test case: copyTimeSheet
+11/05/2020 14:56:26 devpinoyLogger Navigating to BaseURL
+11/05/2020 15:03:44 devpinoyLogger Total rows are : 99
+11/05/2020 15:03:44 devpinoyLogger Test case starts from row num: 61
+11/05/2020 15:03:44 devpinoyLogger Total rows of data are : 1
+11/05/2020 15:03:44 devpinoyLogger Total cols are : 4
+11/05/2020 15:03:44 devpinoyLogger Starting execution of test case: testDeleteTimeSheet
+11/05/2020 15:03:57 devpinoyLogger Navigating to BaseURL
+11/05/2020 15:07:44 devpinoyLogger Total rows are : 99
+11/05/2020 15:07:44 devpinoyLogger Test case starts from row num: 41
+11/05/2020 15:07:44 devpinoyLogger Total rows of data are : 1
+11/05/2020 15:07:44 devpinoyLogger Total cols are : 8
+11/05/2020 15:07:44 devpinoyLogger Starting execution of test case: testTimeSheetSubmit
+11/05/2020 15:07:59 devpinoyLogger Navigating to BaseURL
+11/05/2020 15:11:42 devpinoyLogger Total rows are : 99
+11/05/2020 15:11:42 devpinoyLogger Test case starts from row num: 57
+11/05/2020 15:11:42 devpinoyLogger Total rows of data are : 1
+11/05/2020 15:11:42 devpinoyLogger Total cols are : 8
+11/05/2020 15:11:42 devpinoyLogger Starting execution of test case: testTimeSheetTotalHrs
+11/05/2020 15:11:55 devpinoyLogger Navigating to BaseURL
+11/05/2020 15:19:41 devpinoyLogger Total rows are : 99
+11/05/2020 15:19:41 devpinoyLogger Test case starts from row num: 53
+11/05/2020 15:19:41 devpinoyLogger Total rows of data are : 1
+11/05/2020 15:19:41 devpinoyLogger Total cols are : 8
+11/05/2020 15:19:41 devpinoyLogger Starting execution of test case: testTimeSheetTotalHrsInLine
+11/05/2020 15:19:57 devpinoyLogger Navigating to BaseURL
+11/05/2020 15:23:37 devpinoyLogger Total rows are : 99
+11/05/2020 15:23:37 devpinoyLogger Test case starts from row num: 5
+11/05/2020 15:23:37 devpinoyLogger Total rows of data are : 1
+11/05/2020 15:23:37 devpinoyLogger Total cols are : 17
+11/05/2020 15:23:37 devpinoyLogger Starting execution of test case: testEditTimeSheet
+11/05/2020 15:27:21 devpinoyLogger Total rows are : 99
+11/05/2020 15:27:21 devpinoyLogger Test case starts from row num: 1
+11/05/2020 15:27:21 devpinoyLogger Total rows of data are : 1
+11/05/2020 15:27:21 devpinoyLogger Total cols are : 17
+11/05/2020 15:27:21 devpinoyLogger Starting execution of test case: testTimeSheetManagerApprove
+11/05/2020 15:28:02 devpinoyLogger Executing Presence of all Elements

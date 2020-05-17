@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Visual Regression Suite">
+<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<listener
+			class-name="com.framework.customlisteners.AnnotationTransformer"></listener>
+		<listener class-name="com.framework.customlisteners.CustomeListeners"></listener>
+	</listeners>
+  <test name="Visual Regression Test">
+    <classes>
+    <class name="com.techaspect.visualregression.testcases.FullpageScreenshotTest"/>
+  
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

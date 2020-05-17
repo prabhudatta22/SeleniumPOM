@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="UIRegression">
+	<!-- Do not use parallel="methods" -->
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener
+			class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<listener
+			class-name="com.framework.customlisteners.AnnotationTransformer" />
+		<listener
+			class-name="com.framework.customlisteners.TestsListeners" />
+	</listeners>
+	<test name="TimesheetRevamp_Regression">
+		<classes>
+			<class
+				name="com.testcases.CopyTimesheetTest" />
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

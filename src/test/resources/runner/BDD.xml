@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TIBA BDD Demo">
+<listeners>
+	<listener class-name="com.framework.testutils.TestsListenerAdapter" />
+	<listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+</listeners>
+	<test name="Test MegaMenu">
+	<parameter name="mobiledevice" value="true"/>
+		<classes>
+			<class name="com.bdd.tests.runner.RunCuke" />
+		</classes>
+	</test>
+	<test name="Test SchlConslForm">
+	<parameter name="mobiledevice" value="true"/>
+		<classes>
+			<class name="com.bdd.tests.runner.RunCuke" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

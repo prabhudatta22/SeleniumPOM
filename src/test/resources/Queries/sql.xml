@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<entry key="getEmployeeID">
+	 <![CDATA[select employee_id from techaspecthrm_mysql.hs_hr_employee where emp_firstname like :FirstName and emp_lastname like :LastName;]]>
+	</entry>
+	
+	<entry key="updateEmployeeID">
+	 <![CDATA[update techaspecthrm_mysql.employee_timesheets SET submit=3 WHERE id in (:empID);]]>
+	</entry>
+</properties>

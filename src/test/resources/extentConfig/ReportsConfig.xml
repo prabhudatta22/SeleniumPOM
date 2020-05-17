@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+	<configuration>
+		<!-- report theme -->
+		<!-- standard, dark -->
+		<theme>standard</theme>
+
+		<!-- document encoding -->
+		<!-- defaults to UTF-8 -->
+		<encoding>UTF-8</encoding>
+
+		<!-- protocol for script and stylesheets -->
+		<!-- defaults to https -->
+		<protocol>https</protocol>
+
+		<!-- title of the document -->
+		<documentTitle>Timesheet Revamp Test Automation</documentTitle>
+
+		<!-- report headline - displayed at top-nav, after reportHeadline -->
+		<reportHeadline>Timesheet Revamp Regression Result</reportHeadline>
+
+		<!-- global date format override -->
+		<!-- defaults to yyyy-MM-dd -->
+		<dateFormat>yyyy-MM-dd</dateFormat>
+
+		<!-- global time format override -->
+		<!-- defaults to HH:mm:ss -->
+		<timeFormat>HH:mm:ss</timeFormat>
+
+		<testViewChartLocation>TOP</testViewChartLocation>
+				<!-- report name - displayed at top-nav -->
+    	<reportName>
+			<![CDATA[
+    	<script>
+            		var logoElem = document.getElementsByClassName('brand-logo')[0],
+            			image = document.createElement('img'),
+            			styleElement = document.createElement('style');
+            			logoElem.innerHTML = '';
+           			/* Add logo image and anchor */
+           			image.src = 'file:///F:/SeleniumWorkspace/ReusableFramework/src/test/resources/lib/logo/ta_Logo_W.png';
+           			logoElem.setAttribute('href', 'https://www.tadigital.com');
+           			logoElem.setAttribute('target', '_blank');
+           			logoElem.style.backgroundColor = 'inherit !important';
+           			logoElem.appendChild(image);
+           			
+           			/* Add style for the anchor */
+           			styleElement.type = 'text/css';
+				    document.getElementsByTagName('head')[0].appendChild(styleElement);
+				    styleElement.appendChild(document.createTextNode('nav .nav-wrapper .blue.darken-3.brand-logo{background-color: inherit !important}'));
+            			
+            		var reportNameElem = document.getElementsByClassName('report-name')[0];
+            			reportNameElem.innerHTML = 'Reusable Automation Test Report By Prabhudatta Choudhury!';
+            			
+            		var favicon = document.createElement('link');
+            		favicon.setAttribute('rel', 'icon');
+            		favicon.setAttribute('href', 'file:///F:/SeleniumWorkspace/ReusableFramework/src/test/resources/lib/logo/Fav-64-1.png');
+            		favicon.setAttribute('type', 'image/x-icon');
+            		document.getElementsByTagName('head')[0].appendChild(favicon); 
+            	</script>
+            	<style>
+            		nav .brand-logo {
+            			width: 120px !important;
+            			padding: 1px 7px !important;
+            		}
+            		
+            		nav .brand-logo.blue.darken-3 {
+            			background-color: #fff !important;
+            		}
+            		
+            		nav .brand-logo img {
+            			max-width: 100%;
+            			height: auto;
+            		}
+            	</style>
+            	]]>
+		</reportName>
+	</configuration>
+</extentreports>
